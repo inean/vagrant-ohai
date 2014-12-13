@@ -1,1 +1,3 @@
-require 'vagrant-ohai/vagrant-ohai.rb'
+require 'vagrant'
+require 'vagrant-ohai/plugin'
+require 'vagrant-ohai/config'
